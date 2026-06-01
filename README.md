@@ -1,7 +1,8 @@
 # 🌲 Unity 2D Multiplayer Platformer
 
 ## 📸 Gameplay Preview
-![Forest Level Gameplay](<img width="512" height="231" alt="image" src="https://github.com/user-attachments/assets/199b4ba6-c3f2-477a-889b-9e1c48d5daa1" />
+<img width="512" height="231" alt="image" src="https://github.com/user-attachments/assets/a2e64d91-8a4b-4107-98ed-e78cf18a2894" />
+
 )
 
 ## 🌟 Game Idea & Concept (فكرة المشروع)
